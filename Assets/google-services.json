@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "217423272019",
+    "firebase_url": "https://augmented-reality-projec-24f1a.firebaseio.com",
+    "project_id": "augmented-reality-projec-24f1a",
+    "storage_bucket": "augmented-reality-projec-24f1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217423272019:android:82af025ff53492ab",
+        "android_client_info": {
+          "package_name": "com.arproject.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217423272019-e878kqo0g7b77v9nfkc38cii0nf1ehfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arproject.android",
+            "certificate_hash": "0591cb286530a0829af3e618e28af5a9ddf62c79"
+          }
+        },
+        {
+          "client_id": "217423272019-hmca59lvtoe6uplrq1f73b19547v4jqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlqjuhi_hB33OnWSMZ28R8WzBKFqHk2Dg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217423272019-hmca59lvtoe6uplrq1f73b19547v4jqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
